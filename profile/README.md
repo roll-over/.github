@@ -1,12 +1,18 @@
-## Hi there 👋
+## Что такое roll-over?
+roll-over - то группа энтузиастов, которая собралась вместе, чтобы воплощать свои крутые идеи в проекты.
 
-<!--
+Мы объединяем наши разнообразные навыки и творческий потенциал, чтобы достичь впечатляющих результатов.
 
-**Here are some ideas to get you started:**
+Каждый из нас вносит свой вклад в процесс создания, принося свежие идеи и экспертные знания в своей области.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Миссия
+- Сделать развитие команды и в команде прозрачным и максимально простым
+- Сделать запуск проектов максимально легким и безболезненным
+- Сделать процесс обучения новой профессии простым
+
+
+Наш сайт: [https://roll-over.orby-tech.space/](https://roll-over.orby-tech.space/)
+Наш твиттер: [https://twitter.com/roll_over_group](https://twitter.com/roll_over_group)
+Наши проекты: [https://roll-over.orby-tech.space/projects](https://roll-over.orby-tech.space/projects)
+У нас есть места: [https://roll-over.orby-tech.space/vacancies](https://roll-over.orby-tech.space/vacancies)
+И мы открыты для сотрудничества: [https://roll-over.orby-tech.space/contacts](https://roll-over.orby-tech.space/contacts)
