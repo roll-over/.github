@@ -10,7 +10,7 @@ roll-over - то группа энтузиастов, которая собра�
 - Сделать запуск проектов максимально легким и безболезненным
 - Сделать процесс обучения новой профессии простым
 
-
+## Смотрите так же:
 - Наш сайт: [https://roll-over.orby-tech.space/](https://roll-over.orby-tech.space/)
 - Наш твиттер: [https://twitter.com/roll_over_group](https://twitter.com/roll_over_group)
 - Наши проекты: [https://roll-over.orby-tech.space/projects](https://roll-over.orby-tech.space/projects)
