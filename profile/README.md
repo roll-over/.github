@@ -11,10 +11,10 @@ roll-over - то группа энтузиастов, которая собра�
 - Сделать процесс обучения новой профессии простым
 
 ## Смотрите так же:
-- Наш сайт: [https://roll-over.orby-tech.space/](https://roll-over.orby-tech.space/)
+- Наш сайт: [https://roll-over.org/](https://roll-over.org/)
 - Наш твиттер: [https://twitter.com/roll_over_group](https://twitter.com/roll_over_group)
 - Наши проекты: [https://roll-over.orby-tech.space/projects](https://roll-over.orby-tech.space/projects)
 - Наш дискорд: [https://discord.gg/5hn2cafrNa](https://discord.gg/5hn2cafrNa)
 - Наш ютуб: [https://www.youtube.com/@roll_over_projects](https://www.youtube.com/@roll_over_projects)
-- У нас есть места: [https://roll-over.orby-tech.space/vacancies](https://roll-over.orby-tech.space/vacancies)
-- И мы открыты для сотрудничества: [https://roll-over.orby-tech.space/contacts](https://roll-over.orby-tech.space/contacts)
+- У нас есть места: [https://roll-over.org/vacancies](https://roll-over.org/vacancies)
+- И мы открыты для сотрудничества: [https://roll-over.org/contacts](https://roll-over.org/contacts)
